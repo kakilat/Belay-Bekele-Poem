@@ -1,0 +1,8 @@
+class Data{
+  String DATE,DTAIL,TITLE,KEYVALUE,NUMBEROFLIKE;
+  String  NUMBEROFVIEW;
+
+  Data(this.TITLE,this.DATE, this.DTAIL, this.NUMBEROFLIKE,this.NUMBEROFVIEW, this.KEYVALUE);
+
+
+}

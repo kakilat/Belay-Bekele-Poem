@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785672061898",
+    "firebase_url": "https://poim-1d70d.firebaseio.com",
+    "project_id": "poim-1d70d",
+    "storage_bucket": "poim-1d70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785672061898:android:2e6c679bfb8178bdf74533",
+        "android_client_info": {
+          "package_name": "instant.belay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785672061898-v3qp69c2t445cjp13895po4gmnr82kec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKtBgwHLtLeDb-_31RvVjilq9IoyBzgRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785672061898-v3qp69c2t445cjp13895po4gmnr82kec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
